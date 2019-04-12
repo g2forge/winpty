@@ -23,7 +23,7 @@ server.
 If you don't have questions or security concerns, you can install winpty with the following one-liner:
 
 ```
-curl -L https://raw.githubusercontent.com/g2forge/forklift/master/install | bash && forklift import com.github g2forge/winpty current
+bash <(curl -L https://raw.githubusercontent.com/g2forge/forklift/master/install) import com.github g2forge/winpty current
 ```
 
 ## Supported Windows versions
