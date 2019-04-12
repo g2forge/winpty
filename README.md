@@ -18,6 +18,14 @@ properly-functioning input (e.g. arrow and function keys) and output (e.g. line
 buffering).  The library could be also useful for writing a non-Cygwin SSH
 server.
 
+## QuickStart
+
+If you don't have questions or security concerns, you can install winpty with the following one-liner:
+
+```
+bash <(curl -L https://raw.githubusercontent.com/g2forge/forklift/master/install) import com.github g2forge/winpty current
+```
+
 ## Supported Windows versions
 
 winpty runs on Windows XP through Windows 10, including server versions.  It
