@@ -15,3 +15,5 @@ winpty.opensdf
 /src/Release
 /src/gen
 /bulldozer-temp.json
+/.project
+/.settings/
